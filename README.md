@@ -1,0 +1,2 @@
+# Supervised-Machine-Learning-
+This repository showcases a supervised machine learning project done for my Master's degree. It encompasses dataset exploration (null value treatment), feature engineering, feature selection (p-value approach &amp; hyperparameter tuning), and predictive model comparison and performance assessment. The techniques applied in these models are meant to help solve a business objective with consumer-centric focus.   
